@@ -11,4 +11,4 @@ export const SITE_TITLE = "Gemz Software - Custom Software Solutions for Organis
 export const SITE_DESCRIPTION =
   "Custom software for organisations worldwide: procurement, document management, real estate, HR and IT service systems, built to your requirements.";
 
-export const SUPPORT_EMAIL = "support@gemzsoftware.com";
+export const SUPPORT_EMAIL = "info@gemzsoftware.com";

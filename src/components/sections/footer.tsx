@@ -63,8 +63,8 @@ export function Footer() {
             </p>
             <ul className="mt-3 flex flex-col">
               <li>
-                <a href="mailto:support@gemzsoftware.com" className={`${linkClasses} break-all`}>
-                  support@gemzsoftware.com
+                <a href="mailto:info@gemzsoftware.com" className={`${linkClasses} break-all`}>
+                  info@gemzsoftware.com
                 </a>
               </li>
               <li className="flex min-h-11 items-center">Lagos, Nigeria</li>

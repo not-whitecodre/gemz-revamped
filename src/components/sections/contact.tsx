@@ -28,10 +28,10 @@ export function Contact() {
         <p className="mt-6 text-center text-sm text-ink-muted">
           Prefer email?{" "}
           <a
-            href="mailto:support@gemzsoftware.com"
+            href="mailto:info@gemzsoftware.com"
             className="font-medium text-accent-ink underline underline-offset-4 hover:text-ink focus-visible:rounded-sm focus-visible:ring-2 focus-visible:ring-accent focus-visible:outline-none"
           >
-            support@gemzsoftware.com
+            info@gemzsoftware.com
           </a>
         </p>
       </Reveal>
